@@ -1,7 +1,7 @@
 ---
-title: "UAVM 2023"
+title: "UAVM 2024"
 collection: pages
-permalink: /ACMMM2023Workshop
+permalink: /ACMMM2024Workshop
 author_profile: false
 ---
 
